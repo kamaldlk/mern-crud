@@ -19,7 +19,7 @@ class TableUser extends Component {
         <Table.Cell>
           <ModalUser
             headerTitle='Edit User'
-            buttonTriggerTitle='Edit'
+            buttonTriggerTitle='Update'
             buttonSubmitTitle='Save'
             buttonColor='blue'
             userID={user._id}
